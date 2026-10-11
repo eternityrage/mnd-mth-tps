@@ -124,5 +124,23 @@
       "status": "success",
       "url": "https://facebook.com/1154528080584137"
     }
+  },
+  {
+    "timestamp": "2026-10-11T18:04:26.542632+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_anamorphic_stretch_keycap_1_motorway_20261011_180421.mp4",
+    "mode": "anamorphic_stretch",
+    "hero": "keycap_1",
+    "item": "motorway",
+    "title": "MindMath Reflex: Pause On The Exact Number! \ud83d\udd22",
+    "pinned_comment": "\ud83c\udfb2 CALCULATION SPEED TEST: Drop your screenshot below! Can you hit 100% precision on try #1? \ud83d\udc47 #MindMathTaps",
+    "facebook": {
+      "id": "1115622281077309",
+      "comment_id": "1115622281077309_1722154932176131",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1115622281077309"
+    }
   }
 ]
