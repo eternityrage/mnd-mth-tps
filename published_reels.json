@@ -106,5 +106,23 @@
       "status": "success",
       "url": "https://facebook.com/1147408850947680"
     }
+  },
+  {
+    "timestamp": "2026-10-11T09:58:42.206950+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_plinko_bounce_four_oclock_film_frames_20261011_095839.mp4",
+    "mode": "plinko_bounce",
+    "hero": "four_oclock",
+    "item": "film_frames",
+    "title": "99% Can't Count Fast Enough! Tap Pause To Win \ud83c\udfb2",
+    "pinned_comment": "\ud83c\udfb2 CALCULATION SPEED TEST: Drop your screenshot below! Can you hit 100% precision on try #1? \ud83d\udc47 #MindMathTaps",
+    "facebook": {
+      "id": "1154528080584137",
+      "comment_id": "1154528080584137_1089940837158663",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1154528080584137"
+    }
   }
 ]
