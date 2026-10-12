@@ -178,5 +178,23 @@
       "status": "success",
       "url": "https://facebook.com/1807256777278801"
     }
+  },
+  {
+    "timestamp": "2026-10-12T21:44:18.572854+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_diamond_grid_4_red_circle_transgender_flag_20261012_214415.mp4",
+    "mode": "diamond_grid_4",
+    "hero": "red_circle",
+    "item": "transgender_flag",
+    "title": "MindMath Reflex: Pause On The Exact Number! \ud83d\udd22",
+    "pinned_comment": "\ud83c\udfb2 CALCULATION SPEED TEST: Drop your screenshot below! Can you hit 100% precision on try #1? \ud83d\udc47 #MindMathTaps",
+    "facebook": {
+      "id": "2318432178914814",
+      "comment_id": "2318432178914814_1915291659878143",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2318432178914814"
+    }
   }
 ]
