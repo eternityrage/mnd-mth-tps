@@ -142,5 +142,23 @@
       "status": "success",
       "url": "https://facebook.com/1115622281077309"
     }
+  },
+  {
+    "timestamp": "2026-10-12T01:20:09.527767+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_gear_train_mesh_video_game_keycap_5_20261012_012005.mp4",
+    "mode": "gear_train_mesh",
+    "hero": "video_game",
+    "item": "keycap_5",
+    "title": "Math IQ Speed Test: Stop At 100% Precision! \ud83d\udcd0",
+    "pinned_comment": "\ud83d\udd22 MATH IQ CHALLENGE:\n1. Pause when the number locks into the outline! \u23f1\ufe0f\n2. Comment your attempt screenshot below \ud83d\udc47\n3. How many tries did it take you? \ud83e\udde0 #MindMath",
+    "facebook": {
+      "id": "1646824810354213",
+      "comment_id": "1646824810354213_1083438981159836",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1646824810354213"
+    }
   }
 ]
