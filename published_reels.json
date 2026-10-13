@@ -230,5 +230,23 @@
       "error": "Finish Phase Failed: {\"error\":{\"message\":\"There was a problem uploading your video file. Please try again with another file.\",\"type\":\"OAuthException\",\"code\":6000,\"error_subcode\":1363130,\"is_transient\":false,\"error_user_title\":\"Video Upload Is Missing\",\"error_user_msg\":\"The video was not uploaded.\",\"fbtrace_id\":\"AFld1Zn4fBWrno7MrwMVY5f\"}}",
       "platform": "facebook"
     }
+  },
+  {
+    "timestamp": "2026-10-13T19:52:32.793887+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_box_implosion_chains_woman_blonde_hair_20261013_195227.mp4",
+    "mode": "box_implosion",
+    "hero": "chains",
+    "item": "woman_blonde_hair",
+    "title": "99% Can't Count Fast Enough! Tap Pause To Win \ud83c\udfb2",
+    "pinned_comment": "\ud83d\udca1 QUICK MATH: Pause the reel at the perfect alignment! Drop your screenshot to prove your math IQ! \ud83c\udfc6",
+    "facebook": {
+      "id": "1763098921462457",
+      "comment_id": "1763098921462457_1043639468728459",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1763098921462457"
+    }
   }
 ]
