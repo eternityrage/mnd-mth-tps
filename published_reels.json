@@ -266,5 +266,23 @@
       "status": "success",
       "url": "https://facebook.com/1389643109824922"
     }
+  },
+  {
+    "timestamp": "2026-10-14T08:41:35.541423+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_whirlpool_drain_bookmark_person_juggling_20261014_084129.mp4",
+    "mode": "whirlpool_drain",
+    "hero": "bookmark",
+    "item": "person_juggling",
+    "title": "Math IQ Speed Test: Stop At 100% Precision! \ud83d\udcd0",
+    "pinned_comment": "\ud83d\udd22 MATH IQ CHALLENGE:\n1. Pause when the number locks into the outline! \u23f1\ufe0f\n2. Comment your attempt screenshot below \ud83d\udc47\n3. How many tries did it take you? \ud83e\udde0 #MindMath",
+    "facebook": {
+      "id": "1096023659827451",
+      "comment_id": "1096023659827451_1571901434245600",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1096023659827451"
+    }
   }
 ]
