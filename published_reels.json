@@ -248,5 +248,23 @@
       "status": "success",
       "url": "https://facebook.com/1763098921462457"
     }
+  },
+  {
+    "timestamp": "2026-10-14T01:13:39.264780+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_dna_double_helix_magic_wand_burrito_20261014_011334.mp4",
+    "mode": "dna_double_helix",
+    "hero": "magic_wand",
+    "item": "burrito",
+    "title": "Mental Math Rush: Align The Right Equation! \ud83d\udca1",
+    "pinned_comment": "\ud83c\udfb2 CALCULATION SPEED TEST: Drop your screenshot below! Can you hit 100% precision on try #1? \ud83d\udc47 #MindMathTaps",
+    "facebook": {
+      "id": "1389643109824922",
+      "comment_id": "1389643109824922_1655643949500349",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1389643109824922"
+    }
   }
 ]
