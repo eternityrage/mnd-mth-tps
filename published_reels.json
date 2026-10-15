@@ -320,5 +320,23 @@
       "status": "success",
       "url": "https://facebook.com/1459789356247784"
     }
+  },
+  {
+    "timestamp": "2026-10-15T08:16:17.928390+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_vertical_vise_red_heart_white_medium_square_20261015_081613.mp4",
+    "mode": "vertical_vise",
+    "hero": "red_heart",
+    "item": "white_medium_square",
+    "title": "99% Can't Count Fast Enough! Tap Pause To Win \ud83c\udfb2",
+    "pinned_comment": "\ud83c\udfb2 CALCULATION SPEED TEST: Drop your screenshot below! Can you hit 100% precision on try #1? \ud83d\udc47 #MindMathTaps",
+    "facebook": {
+      "id": "930229436577905",
+      "comment_id": "930229436577905_1473982301265347",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/930229436577905"
+    }
   }
 ]
