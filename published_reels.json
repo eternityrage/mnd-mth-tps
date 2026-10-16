@@ -410,5 +410,23 @@
       "status": "success",
       "url": "https://facebook.com/1652131973176354"
     }
+  },
+  {
+    "timestamp": "2026-10-16T17:28:13.774747+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_teleport_snap_sport_utility_vehicle_mushroom_20261016_172810.mp4",
+    "mode": "teleport_snap",
+    "hero": "sport_utility_vehicle",
+    "item": "mushroom",
+    "title": "99% Can't Count Fast Enough! Tap Pause To Win \ud83c\udfb2",
+    "pinned_comment": "\ud83c\udfb2 CALCULATION SPEED TEST: Drop your screenshot below! Can you hit 100% precision on try #1? \ud83d\udc47 #MindMathTaps",
+    "facebook": {
+      "id": "1820589112427803",
+      "comment_id": "1820589112427803_1108024062118306",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1820589112427803"
+    }
   }
 ]
