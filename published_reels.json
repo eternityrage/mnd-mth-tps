@@ -392,5 +392,23 @@
       "status": "success",
       "url": "https://facebook.com/3397522517101523"
     }
+  },
+  {
+    "timestamp": "2026-10-16T13:14:53.291626+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_pyramid_wave_joker_stop_sign_20261016_131448.mp4",
+    "mode": "pyramid_wave",
+    "hero": "joker",
+    "item": "stop_sign",
+    "title": "99% Can't Count Fast Enough! Tap Pause To Win \ud83c\udfb2",
+    "pinned_comment": "\ud83d\udca1 QUICK MATH: Pause the reel at the perfect alignment! Drop your screenshot to prove your math IQ! \ud83c\udfc6",
+    "facebook": {
+      "id": "1652131973176354",
+      "comment_id": "1652131973176354_2580621089112477",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1652131973176354"
+    }
   }
 ]
