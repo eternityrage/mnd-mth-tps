@@ -446,5 +446,23 @@
       "status": "success",
       "url": "https://facebook.com/857093377459879"
     }
+  },
+  {
+    "timestamp": "2026-10-17T07:45:56.406613+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_conveyor_belt_rush_curry_rice_person_in_manual_wheelchair_20261017_074552.mp4",
+    "mode": "conveyor_belt_rush",
+    "hero": "curry_rice",
+    "item": "person_in_manual_wheelchair",
+    "title": "Math IQ Speed Test: Stop At 100% Precision! \ud83d\udcd0",
+    "pinned_comment": "\ud83d\udd22 MATH IQ CHALLENGE:\n1. Pause when the number locks into the outline! \u23f1\ufe0f\n2. Comment your attempt screenshot below \ud83d\udc47\n3. How many tries did it take you? \ud83e\udde0 #MindMath",
+    "facebook": {
+      "id": "1888830928774707",
+      "comment_id": "1888830928774707_1676173267547041",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1888830928774707"
+    }
   }
 ]
