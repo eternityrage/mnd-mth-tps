@@ -482,5 +482,23 @@
       "status": "success",
       "url": "https://facebook.com/1654921239634725"
     }
+  },
+  {
+    "timestamp": "2026-10-17T16:24:28.931250+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_crossfire_8way_supernova_axe_black_square_button_20261017_162424.mp4",
+    "mode": "crossfire_8way_supernova",
+    "hero": "axe",
+    "item": "black_square_button",
+    "title": "Math IQ Speed Test: Stop At 100% Precision! \ud83d\udcd0",
+    "pinned_comment": "\ud83c\udfb2 CALCULATION SPEED TEST: Drop your screenshot below! Can you hit 100% precision on try #1? \ud83d\udc47 #MindMathTaps",
+    "facebook": {
+      "id": "1131570449403832",
+      "comment_id": "1131570449403832_28623274714038236",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1131570449403832"
+    }
   }
 ]
