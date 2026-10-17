@@ -428,5 +428,23 @@
       "status": "success",
       "url": "https://facebook.com/1820589112427803"
     }
+  },
+  {
+    "timestamp": "2026-10-17T00:28:47.358068+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_sine_wave_meander_1st_place_medal_crown_20261017_002842.mp4",
+    "mode": "sine_wave_meander",
+    "hero": "1st_place_medal",
+    "item": "crown",
+    "title": "Mental Math Rush: Align The Right Equation! \ud83d\udca1",
+    "pinned_comment": "\ud83d\udd22 MATH IQ CHALLENGE:\n1. Pause when the number locks into the outline! \u23f1\ufe0f\n2. Comment your attempt screenshot below \ud83d\udc47\n3. How many tries did it take you? \ud83e\udde0 #MindMath",
+    "facebook": {
+      "id": "857093377459879",
+      "comment_id": "857093377459879_1456619130007838",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/857093377459879"
+    }
   }
 ]
