@@ -536,5 +536,23 @@
       "status": "success",
       "url": "https://facebook.com/2670566953402275"
     }
+  },
+  {
+    "timestamp": "2026-10-18T08:00:16.293669+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_laser_crosshairs_club_suit_person_in_bed_20261018_080012.mp4",
+    "mode": "laser_crosshairs",
+    "hero": "club_suit",
+    "item": "person_in_bed",
+    "title": "Math IQ Speed Test: Stop At 100% Precision! \ud83d\udcd0",
+    "pinned_comment": "\ud83d\udca1 QUICK MATH: Pause the reel at the perfect alignment! Drop your screenshot to prove your math IQ! \ud83c\udfc6",
+    "facebook": {
+      "id": "1400654078440587",
+      "comment_id": "1400654078440587_1574538670667903",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1400654078440587"
+    }
   }
 ]
