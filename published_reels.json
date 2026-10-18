@@ -590,5 +590,23 @@
       "status": "success",
       "url": "https://facebook.com/1044493638618605"
     }
+  },
+  {
+    "timestamp": "2026-10-18T19:26:23.489685+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_triangle_bounce_one_piece_swimsuit_necktie_20261018_192618.mp4",
+    "mode": "triangle_bounce",
+    "hero": "one_piece_swimsuit",
+    "item": "necktie",
+    "title": "Quick Mental Calculation: Can You Freeze In Time? \u26a1",
+    "pinned_comment": "\ud83d\udca1 QUICK MATH: Pause the reel at the perfect alignment! Drop your screenshot to prove your math IQ! \ud83c\udfc6",
+    "facebook": {
+      "id": "2082915033111275",
+      "comment_id": "2082915033111275_1438736568431282",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2082915033111275"
+    }
   }
 ]
