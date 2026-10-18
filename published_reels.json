@@ -572,5 +572,23 @@
       "status": "success",
       "url": "https://facebook.com/951208010982069"
     }
+  },
+  {
+    "timestamp": "2026-10-18T16:31:22.491822+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_matrix_3x3_slots_joystick_sunflower_20261018_163118.mp4",
+    "mode": "matrix_3x3_slots",
+    "hero": "joystick",
+    "item": "sunflower",
+    "title": "Probability & Speed: Hit The Winning Number! \ud83c\udfc6",
+    "pinned_comment": "\ud83d\udd22 MATH IQ CHALLENGE:\n1. Pause when the number locks into the outline! \u23f1\ufe0f\n2. Comment your attempt screenshot below \ud83d\udc47\n3. How many tries did it take you? \ud83e\udde0 #MindMath",
+    "facebook": {
+      "id": "1044493638618605",
+      "comment_id": "1044493638618605_4593845630852018",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1044493638618605"
+    }
   }
 ]
