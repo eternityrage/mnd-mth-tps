@@ -518,5 +518,23 @@
       "status": "success",
       "url": "https://facebook.com/1145050181189422"
     }
+  },
+  {
+    "timestamp": "2026-10-18T00:02:13.691510+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_matrix_2x2_crayon_t_rex_20261018_000209.mp4",
+    "mode": "matrix_2x2",
+    "hero": "crayon",
+    "item": "t_rex",
+    "title": "99% Can't Count Fast Enough! Tap Pause To Win \ud83c\udfb2",
+    "pinned_comment": "\ud83d\udca1 QUICK MATH: Pause the reel at the perfect alignment! Drop your screenshot to prove your math IQ! \ud83c\udfc6",
+    "facebook": {
+      "id": "2670566953402275",
+      "comment_id": "2670566953402275_1634168611539680",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2670566953402275"
+    }
   }
 ]
