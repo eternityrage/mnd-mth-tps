@@ -644,5 +644,23 @@
       "status": "success",
       "url": "https://facebook.com/1847353982928959"
     }
+  },
+  {
+    "timestamp": "2026-10-19T19:20:15.864561+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_atom_electrons_chess_pawn_backhand_index_pointing_down_20261019_192012.mp4",
+    "mode": "atom_electrons",
+    "hero": "chess_pawn",
+    "item": "backhand_index_pointing_down",
+    "title": "Math IQ Speed Test: Stop At 100% Precision! \ud83d\udcd0",
+    "pinned_comment": "\ud83d\udca1 QUICK MATH: Pause the reel at the perfect alignment! Drop your screenshot to prove your math IQ! \ud83c\udfc6",
+    "facebook": {
+      "id": "1129791283074956",
+      "comment_id": "1129791283074956_1136410392679978",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1129791283074956"
+    }
   }
 ]
