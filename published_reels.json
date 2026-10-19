@@ -608,5 +608,23 @@
       "status": "success",
       "url": "https://facebook.com/2082915033111275"
     }
+  },
+  {
+    "timestamp": "2026-10-19T00:12:49.653104+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_crossfire_4way_hammer_antenna_bars_20261019_001244.mp4",
+    "mode": "crossfire_4way",
+    "hero": "hammer",
+    "item": "antenna_bars",
+    "title": "MindMath Reflex: Pause On The Exact Number! \ud83d\udd22",
+    "pinned_comment": "\ud83d\udca1 QUICK MATH: Pause the reel at the perfect alignment! Drop your screenshot to prove your math IQ! \ud83c\udfc6",
+    "facebook": {
+      "id": "1695796238721995",
+      "comment_id": "1695796238721995_2057969234697437",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1695796238721995"
+    }
   }
 ]
