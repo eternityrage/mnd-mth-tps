@@ -626,5 +626,23 @@
       "status": "success",
       "url": "https://facebook.com/1695796238721995"
     }
+  },
+  {
+    "timestamp": "2026-10-19T08:50:00.637890+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_double_pendulum_chaos_coin_airplane_arrival_20261019_084955.mp4",
+    "mode": "double_pendulum_chaos",
+    "hero": "coin",
+    "item": "airplane_arrival",
+    "title": "Mental Math Rush: Align The Right Equation! \ud83d\udca1",
+    "pinned_comment": "\ud83d\udd22 MATH IQ CHALLENGE:\n1. Pause when the number locks into the outline! \u23f1\ufe0f\n2. Comment your attempt screenshot below \ud83d\udc47\n3. How many tries did it take you? \ud83e\udde0 #MindMath",
+    "facebook": {
+      "id": "1847353982928959",
+      "comment_id": "1847353982928959_1268001282151998",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1847353982928959"
+    }
   }
 ]
