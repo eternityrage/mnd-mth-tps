@@ -680,5 +680,23 @@
       "status": "success",
       "url": "https://facebook.com/1788536042878895"
     }
+  },
+  {
+    "timestamp": "2026-10-20T08:30:26.886021+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_gear_train_mesh_locked_with_key_musical_keyboard_20261020_083022.mp4",
+    "mode": "gear_train_mesh",
+    "hero": "locked_with_key",
+    "item": "musical_keyboard",
+    "title": "Math IQ Speed Test: Stop At 100% Precision! \ud83d\udcd0",
+    "pinned_comment": "\ud83d\udca1 QUICK MATH: Pause the reel at the perfect alignment! Drop your screenshot to prove your math IQ! \ud83c\udfc6",
+    "facebook": {
+      "id": "2210026969941789",
+      "comment_id": "2210026969941789_1175320962082775",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2210026969941789"
+    }
   }
 ]
