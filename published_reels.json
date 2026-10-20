@@ -662,5 +662,23 @@
       "status": "success",
       "url": "https://facebook.com/1129791283074956"
     }
+  },
+  {
+    "timestamp": "2026-10-20T01:05:35.571529+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_diamond_grid_4_face_with_spiral_eyes_smiling_face_with_hearts_20261020_010532.mp4",
+    "mode": "diamond_grid_4",
+    "hero": "face_with_spiral_eyes",
+    "item": "smiling_face_with_hearts",
+    "title": "Quick Mental Calculation: Can You Freeze In Time? \u26a1",
+    "pinned_comment": "\ud83c\udfb2 CALCULATION SPEED TEST: Drop your screenshot below! Can you hit 100% precision on try #1? \ud83d\udc47 #MindMathTaps",
+    "facebook": {
+      "id": "1788536042878895",
+      "comment_id": "1788536042878895_2524104934666843",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1788536042878895"
+    }
   }
 ]
