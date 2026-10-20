@@ -698,5 +698,23 @@
       "status": "success",
       "url": "https://facebook.com/2210026969941789"
     }
+  },
+  {
+    "timestamp": "2026-10-20T17:58:34.486476+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_crossfire_diagonal_x_ram_oncoming_taxi_20261020_175829.mp4",
+    "mode": "crossfire_diagonal_x",
+    "hero": "ram",
+    "item": "oncoming_taxi",
+    "title": "MindMath Reflex: Pause On The Exact Number! \ud83d\udd22",
+    "pinned_comment": "\ud83c\udfb2 CALCULATION SPEED TEST: Drop your screenshot below! Can you hit 100% precision on try #1? \ud83d\udc47 #MindMathTaps",
+    "facebook": {
+      "id": "4214138312056443",
+      "comment_id": "4214138312056443_949204364537559",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/4214138312056443"
+    }
   }
 ]
