@@ -752,5 +752,23 @@
       "status": "success",
       "url": "https://facebook.com/2214428469483987"
     }
+  },
+  {
+    "timestamp": "2026-10-21T13:38:45.110966+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_sliding_puzzle_15_roller_coaster_oncoming_police_car_20261021_133840.mp4",
+    "mode": "sliding_puzzle_15",
+    "hero": "roller_coaster",
+    "item": "oncoming_police_car",
+    "title": "99% Can't Count Fast Enough! Tap Pause To Win \ud83c\udfb2",
+    "pinned_comment": "\ud83d\udca1 QUICK MATH: Pause the reel at the perfect alignment! Drop your screenshot to prove your math IQ! \ud83c\udfc6",
+    "facebook": {
+      "id": "1673156237672623",
+      "comment_id": "1673156237672623_1304980805053020",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1673156237672623"
+    }
   }
 ]
