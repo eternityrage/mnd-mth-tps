@@ -716,5 +716,23 @@
       "status": "success",
       "url": "https://facebook.com/4214138312056443"
     }
+  },
+  {
+    "timestamp": "2026-10-21T00:37:25.316630+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_black_hole_event_horizon_spade_suit_two_thirty_20261021_003720.mp4",
+    "mode": "black_hole_event_horizon",
+    "hero": "spade_suit",
+    "item": "two_thirty",
+    "title": "MindMath Reflex: Pause On The Exact Number! \ud83d\udd22",
+    "pinned_comment": "\ud83c\udfb2 CALCULATION SPEED TEST: Drop your screenshot below! Can you hit 100% precision on try #1? \ud83d\udc47 #MindMathTaps",
+    "facebook": {
+      "id": "1091024593744191",
+      "comment_id": "1091024593744191_1672156980962193",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1091024593744191"
+    }
   }
 ]
