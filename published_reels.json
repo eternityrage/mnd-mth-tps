@@ -734,5 +734,23 @@
       "status": "success",
       "url": "https://facebook.com/1091024593744191"
     }
+  },
+  {
+    "timestamp": "2026-10-21T08:32:36.376981+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_slot_jackpot_frenzy_game_die_outbox_tray_20261021_083233.mp4",
+    "mode": "slot_jackpot_frenzy",
+    "hero": "game_die",
+    "item": "outbox_tray",
+    "title": "Quick Mental Calculation: Can You Freeze In Time? \u26a1",
+    "pinned_comment": "\ud83d\udca1 QUICK MATH: Pause the reel at the perfect alignment! Drop your screenshot to prove your math IQ! \ud83c\udfc6",
+    "facebook": {
+      "id": "2214428469483987",
+      "comment_id": "2214428469483987_1408354151014905",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2214428469483987"
+    }
   }
 ]
