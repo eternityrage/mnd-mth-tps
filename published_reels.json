@@ -788,5 +788,23 @@
       "status": "success",
       "url": "https://facebook.com/1529304132309168"
     }
+  },
+  {
+    "timestamp": "2026-10-22T00:01:08.512661+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_orbit_carousel_alien_monster_dna_20261022_000104.mp4",
+    "mode": "orbit_carousel",
+    "hero": "alien_monster",
+    "item": "dna",
+    "title": "MindMath Reflex: Pause On The Exact Number! \ud83d\udd22",
+    "pinned_comment": "\ud83d\udd22 MATH IQ CHALLENGE:\n1. Pause when the number locks into the outline! \u23f1\ufe0f\n2. Comment your attempt screenshot below \ud83d\udc47\n3. How many tries did it take you? \ud83e\udde0 #MindMath",
+    "facebook": {
+      "id": "1563797942102900",
+      "comment_id": null,
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1563797942102900"
+    }
   }
 ]
