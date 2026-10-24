@@ -842,5 +842,23 @@
       "status": "success",
       "url": "https://facebook.com/1120427077526529"
     }
+  },
+  {
+    "timestamp": "2026-10-24T21:24:46.391621+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_cannonball_ballistic_puzzle_piece_man_playing_handball_20261024_212443.mp4",
+    "mode": "cannonball_ballistic",
+    "hero": "puzzle_piece",
+    "item": "man_playing_handball",
+    "title": "Math IQ Speed Test: Stop At 100% Precision! \ud83d\udcd0",
+    "pinned_comment": "\ud83d\udca1 QUICK MATH: Pause the reel at the perfect alignment! Drop your screenshot to prove your math IQ! \ud83c\udfc6",
+    "facebook": {
+      "id": "1292918689632449",
+      "comment_id": "1292918689632449_1741247538008749",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1292918689632449"
+    }
   }
 ]
