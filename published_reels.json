@@ -920,5 +920,25 @@
       "status": "success",
       "url": "https://facebook.com/1064890503264276"
     }
+  },
+  {
+    "timestamp": "2026-10-25T19:09:02.091091+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_conveyor_belt_rush_soon_arrow_microphone_20261025_190859.mp4",
+    "family_id": 29,
+    "family_name": "Interlocking Gear Trains",
+    "mode": "conveyor_belt_rush",
+    "hero": "soon_arrow",
+    "item": "microphone",
+    "title": "Mental Math Rush: Align The Right Equation! \ud83d\udca1",
+    "pinned_comment": "\ud83d\udd22 MATH IQ CHALLENGE:\n1. Pause when the number locks into the outline! \u23f1\ufe0f\n2. Comment your attempt screenshot below \ud83d\udc47\n3. How many tries did it take you? \ud83e\udde0 #MindMath",
+    "facebook": {
+      "id": "4183849448581666",
+      "comment_id": "4183849448581666_1116487164309435",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/4183849448581666"
+    }
   }
 ]
