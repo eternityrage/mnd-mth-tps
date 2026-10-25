@@ -860,5 +860,25 @@
       "status": "success",
       "url": "https://facebook.com/1292918689632449"
     }
+  },
+  {
+    "timestamp": "2026-10-25T07:43:46.781684+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_dna_double_helix_man_biking_violin_20261025_074342.mp4",
+    "family_id": 23,
+    "family_name": "Infinity Lemniscates",
+    "mode": "dna_double_helix",
+    "hero": "man_biking",
+    "item": "violin",
+    "title": "99% Can't Count Fast Enough! Tap Pause To Win \ud83c\udfb2",
+    "pinned_comment": "\ud83d\udd22 MATH IQ CHALLENGE:\n1. Pause when the number locks into the outline! \u23f1\ufe0f\n2. Comment your attempt screenshot below \ud83d\udc47\n3. How many tries did it take you? \ud83e\udde0 #MindMath",
+    "facebook": {
+      "id": "1899086551470619",
+      "comment_id": "1899086551470619_2352101932210697",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1899086551470619"
+    }
   }
 ]
