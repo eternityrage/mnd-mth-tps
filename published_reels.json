@@ -1000,5 +1000,25 @@
       "status": "success",
       "url": "https://facebook.com/1815959783016122"
     }
+  },
+  {
+    "timestamp": "2026-10-26T18:45:18.081191+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_plinko_bounce_person_blonde_hair_hamburger_20261026_184513.mp4",
+    "family_id": 17,
+    "family_name": "Plinko Pegboard Drops",
+    "mode": "plinko_bounce",
+    "hero": "person_blonde_hair",
+    "item": "hamburger",
+    "title": "Quick Mental Calculation: Can You Freeze In Time? \u26a1",
+    "pinned_comment": "\ud83d\udd22 MATH IQ CHALLENGE:\n1. Pause when the number locks into the outline! \u23f1\ufe0f\n2. Comment your attempt screenshot below \ud83d\udc47\n3. How many tries did it take you? \ud83e\udde0 #MindMath",
+    "facebook": {
+      "id": "1645693217053728",
+      "comment_id": "1645693217053728_1109635825158003",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1645693217053728"
+    }
   }
 ]
