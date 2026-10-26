@@ -960,5 +960,25 @@
       "status": "success",
       "url": "https://facebook.com/29957136717219603"
     }
+  },
+  {
+    "timestamp": "2026-10-26T08:14:25.016546+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_avalanche_rush_kite_peacock_20261026_081419.mp4",
+    "family_id": 15,
+    "family_name": "Parabolic Cannonballs",
+    "mode": "avalanche_rush",
+    "hero": "kite",
+    "item": "peacock",
+    "title": "99% Can't Count Fast Enough! Tap Pause To Win \ud83c\udfb2",
+    "pinned_comment": "\ud83c\udfb2 CALCULATION SPEED TEST: Drop your screenshot below! Can you hit 100% precision on try #1? \ud83d\udc47 #MindMathTaps",
+    "facebook": {
+      "id": "2084709518725798",
+      "comment_id": "2084709518725798_1419840026403494",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2084709518725798"
+    }
   }
 ]
