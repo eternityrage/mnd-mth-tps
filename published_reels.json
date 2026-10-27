@@ -1080,5 +1080,25 @@
       "status": "success",
       "url": "https://facebook.com/1704100768115734"
     }
+  },
+  {
+    "timestamp": "2026-10-27T13:21:12.471462+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_wobble_jelly_person_rowing_boat_baseball_20261027_132108.mp4",
+    "family_id": 8,
+    "family_name": "Double Pendulum Chaos",
+    "mode": "wobble_jelly",
+    "hero": "person_rowing_boat",
+    "item": "baseball",
+    "title": "Mental Math Rush: Align The Right Equation! \ud83d\udca1",
+    "pinned_comment": "\ud83d\udca1 QUICK MATH: Pause the reel at the perfect alignment! Drop your screenshot to prove your math IQ! \ud83c\udfc6",
+    "facebook": {
+      "id": "3020442351655469",
+      "comment_id": "3020442351655469_1056514437366292",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/3020442351655469"
+    }
   }
 ]
