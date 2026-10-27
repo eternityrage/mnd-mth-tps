@@ -1100,5 +1100,25 @@
       "status": "success",
       "url": "https://facebook.com/3020442351655469"
     }
+  },
+  {
+    "timestamp": "2026-10-27T18:08:06.699158+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_crossfire_4way_diamond_suit_grinning_face_with_sweat_20261027_180802.mp4",
+    "family_id": 30,
+    "family_name": "Cardinal 4-Way Crossfires",
+    "mode": "crossfire_4way",
+    "hero": "diamond_suit",
+    "item": "grinning_face_with_sweat",
+    "title": "99% Can't Count Fast Enough! Tap Pause To Win \ud83c\udfb2",
+    "pinned_comment": "\ud83c\udfb2 CALCULATION SPEED TEST: Drop your screenshot below! Can you hit 100% precision on try #1? \ud83d\udc47 #MindMathTaps",
+    "facebook": {
+      "id": "2116587892274489",
+      "comment_id": "2116587892274489_1464490618969679",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2116587892274489"
+    }
   }
 ]
