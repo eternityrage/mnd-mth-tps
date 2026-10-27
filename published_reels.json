@@ -1040,5 +1040,25 @@
       "status": "success",
       "url": "https://facebook.com/1950738619236372"
     }
+  },
+  {
+    "timestamp": "2026-10-27T01:03:44.483968+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_stopwatch_countdown_taxi_movie_camera_20261027_010340.mp4",
+    "family_id": 50,
+    "family_name": "Precision Chrono Metronomes",
+    "mode": "stopwatch_countdown",
+    "hero": "taxi",
+    "item": "movie_camera",
+    "title": "Math IQ Speed Test: Stop At 100% Precision! \ud83d\udcd0",
+    "pinned_comment": "\ud83d\udca1 QUICK MATH: Pause the reel at the perfect alignment! Drop your screenshot to prove your math IQ! \ud83c\udfc6",
+    "facebook": {
+      "id": "1151732687510403",
+      "comment_id": "1151732687510403_1175912265092125",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1151732687510403"
+    }
   }
 ]
