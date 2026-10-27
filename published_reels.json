@@ -1060,5 +1060,25 @@
       "status": "success",
       "url": "https://facebook.com/1151732687510403"
     }
+  },
+  {
+    "timestamp": "2026-10-27T08:07:07.576460+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_matrix_3x3_slots_purple_circle_four_leaf_clover_20261027_080703.mp4",
+    "family_id": 45,
+    "family_name": "High-Density 3x3 Matrices",
+    "mode": "matrix_3x3_slots",
+    "hero": "purple_circle",
+    "item": "four_leaf_clover",
+    "title": "Quick Mental Calculation: Can You Freeze In Time? \u26a1",
+    "pinned_comment": "\ud83c\udfb2 CALCULATION SPEED TEST: Drop your screenshot below! Can you hit 100% precision on try #1? \ud83d\udc47 #MindMathTaps",
+    "facebook": {
+      "id": "1704100768115734",
+      "comment_id": "1704100768115734_1130566986589052",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1704100768115734"
+    }
   }
 ]
