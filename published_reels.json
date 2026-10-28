@@ -1220,5 +1220,25 @@
       "status": "success",
       "url": "https://facebook.com/1095635486716871"
     }
+  },
+  {
+    "timestamp": "2026-10-28T21:13:01.011848+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_matrix_2x2_unlocked_chart_increasing_20261028_211256.mp4",
+    "family_id": 44,
+    "family_name": "Orthogonal 2x2 Matrices",
+    "mode": "matrix_2x2",
+    "hero": "unlocked",
+    "item": "chart_increasing",
+    "title": "Mental Math Rush: Align The Right Equation! \ud83d\udca1",
+    "pinned_comment": "\ud83d\udd22 MATH IQ CHALLENGE:\n1. Pause when the number locks into the outline! \u23f1\ufe0f\n2. Comment your attempt screenshot below \ud83d\udc47\n3. How many tries did it take you? \ud83e\udde0 #MindMath",
+    "facebook": {
+      "id": "1781843143123478",
+      "comment_id": "1781843143123478_1103466005732727",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1781843143123478"
+    }
   }
 ]
