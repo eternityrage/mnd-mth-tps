@@ -1140,5 +1140,25 @@
       "status": "success",
       "url": "https://facebook.com/1449703947357514"
     }
+  },
+  {
+    "timestamp": "2026-10-28T00:36:21.978641+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_double_pendulum_chaos_pear_3rd_place_medal_20261028_003618.mp4",
+    "family_id": 8,
+    "family_name": "Double Pendulum Chaos",
+    "mode": "double_pendulum_chaos",
+    "hero": "pear",
+    "item": "3rd_place_medal",
+    "title": "99% Can't Count Fast Enough! Tap Pause To Win \ud83c\udfb2",
+    "pinned_comment": "\ud83c\udfb2 CALCULATION SPEED TEST: Drop your screenshot below! Can you hit 100% precision on try #1? \ud83d\udc47 #MindMathTaps",
+    "facebook": {
+      "id": "1615783856694032",
+      "comment_id": "1615783856694032_1061243343626812",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1615783856694032"
+    }
   }
 ]
