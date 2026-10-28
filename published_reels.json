@@ -1160,5 +1160,25 @@
       "status": "success",
       "url": "https://facebook.com/1615783856694032"
     }
+  },
+  {
+    "timestamp": "2026-10-28T08:47:57.865864+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_diamond_grid_4_bust_in_silhouette_oncoming_automobile_20261028_084755.mp4",
+    "family_id": 44,
+    "family_name": "Orthogonal 2x2 Matrices",
+    "mode": "diamond_grid_4",
+    "hero": "bust_in_silhouette",
+    "item": "oncoming_automobile",
+    "title": "MindMath Reflex: Pause On The Exact Number! \ud83d\udd22",
+    "pinned_comment": "\ud83d\udd22 MATH IQ CHALLENGE:\n1. Pause when the number locks into the outline! \u23f1\ufe0f\n2. Comment your attempt screenshot below \ud83d\udc47\n3. How many tries did it take you? \ud83e\udde0 #MindMath",
+    "facebook": {
+      "id": "1123209900296569",
+      "comment_id": "1123209900296569_2365188827643249",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1123209900296569"
+    }
   }
 ]
