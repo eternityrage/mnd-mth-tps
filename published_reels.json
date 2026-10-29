@@ -1300,5 +1300,25 @@
       "status": "success",
       "url": "https://facebook.com/1684209906661099"
     }
+  },
+  {
+    "timestamp": "2026-10-29T18:34:56.873418+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_sniper_target_lock_firefighter_service_dog_20261029_183452.mp4",
+    "family_id": 34,
+    "family_name": "Precision Sniper Crosshairs",
+    "mode": "sniper_target_lock",
+    "hero": "firefighter",
+    "item": "service_dog",
+    "title": "99% Can't Count Fast Enough! Tap Pause To Win \ud83c\udfb2",
+    "pinned_comment": "\ud83d\udca1 QUICK MATH: Pause the reel at the perfect alignment! Drop your screenshot to prove your math IQ! \ud83c\udfc6",
+    "facebook": {
+      "id": "1984692008892959",
+      "comment_id": null,
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1984692008892959"
+    }
   }
 ]
