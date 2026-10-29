@@ -1240,5 +1240,25 @@
       "status": "success",
       "url": "https://facebook.com/1781843143123478"
     }
+  },
+  {
+    "timestamp": "2026-10-29T01:05:57.163258+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_crossfire_diagonal_x_magic_wand_lab_coat_20261029_010551.mp4",
+    "family_id": 31,
+    "family_name": "Diagonal-X Interceptors",
+    "mode": "crossfire_diagonal_x",
+    "hero": "magic_wand",
+    "item": "lab_coat",
+    "title": "Quick Mental Calculation: Can You Freeze In Time? \u26a1",
+    "pinned_comment": "\ud83d\udca1 QUICK MATH: Pause the reel at the perfect alignment! Drop your screenshot to prove your math IQ! \ud83c\udfc6",
+    "facebook": {
+      "id": "1170003755469278",
+      "comment_id": "1170003755469278_2003467466994971",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1170003755469278"
+    }
   }
 ]
