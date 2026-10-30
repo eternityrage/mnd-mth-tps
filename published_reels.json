@@ -1420,5 +1420,25 @@
       "status": "success",
       "url": "https://facebook.com/2953697168324830"
     }
+  },
+  {
+    "timestamp": "2026-10-30T20:56:37.344155+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_snake_serpentine_infinity_nest_with_eggs_20261030_205632.mp4",
+    "family_id": 5,
+    "family_name": "Harmonic Sine Waves",
+    "mode": "snake_serpentine",
+    "hero": "infinity",
+    "item": "nest_with_eggs",
+    "title": "Quick Mental Calculation: Can You Freeze In Time? \u26a1",
+    "pinned_comment": "\ud83d\udca1 QUICK MATH: Pause the reel at the perfect alignment! Drop your screenshot to prove your math IQ! \ud83c\udfc6",
+    "facebook": {
+      "id": "1752673075817000",
+      "comment_id": "1752673075817000_2504876899922642",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1752673075817000"
+    }
   }
 ]
