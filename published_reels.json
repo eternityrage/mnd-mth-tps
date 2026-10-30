@@ -1360,5 +1360,25 @@
       "status": "success",
       "url": "https://facebook.com/1497790392193201"
     }
+  },
+  {
+    "timestamp": "2026-10-30T08:50:17.101099+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_teleport_snap_hook_rabbit_20261030_085012.mp4",
+    "family_id": 47,
+    "family_name": "Quantum Teleportation Snaps",
+    "mode": "teleport_snap",
+    "hero": "hook",
+    "item": "rabbit",
+    "title": "99% Can't Count Fast Enough! Tap Pause To Win \ud83c\udfb2",
+    "pinned_comment": "\ud83c\udfb2 CALCULATION SPEED TEST: Drop your screenshot below! Can you hit 100% precision on try #1? \ud83d\udc47 #MindMathTaps",
+    "facebook": {
+      "id": "1664380118644177",
+      "comment_id": "1664380118644177_1648212600367129",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1664380118644177"
+    }
   }
 ]
