@@ -1460,5 +1460,25 @@
       "status": "success",
       "url": "https://facebook.com/1430567725262967"
     }
+  },
+  {
+    "timestamp": "2026-10-31T08:37:06.437462+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_hyperspace_warp_drive_joker_clinking_glasses_20261031_083701.mp4",
+    "family_id": 47,
+    "family_name": "Quantum Teleportation Snaps",
+    "mode": "hyperspace_warp_drive",
+    "hero": "joker",
+    "item": "clinking_glasses",
+    "title": "99% Can't Count Fast Enough! Tap Pause To Win \ud83c\udfb2",
+    "pinned_comment": "\ud83d\udd22 MATH IQ CHALLENGE:\n1. Pause when the number locks into the outline! \u23f1\ufe0f\n2. Comment your attempt screenshot below \ud83d\udc47\n3. How many tries did it take you? \ud83e\udde0 #MindMath",
+    "facebook": {
+      "id": "974527611886901",
+      "comment_id": "974527611886901_1088942254138507",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/974527611886901"
+    }
   }
 ]
