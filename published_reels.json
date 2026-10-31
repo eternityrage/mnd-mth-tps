@@ -1500,5 +1500,25 @@
       "status": "success",
       "url": "https://facebook.com/1160204183144719"
     }
+  },
+  {
+    "timestamp": "2026-10-31T17:18:14.036762+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_dual_zoom_inverse_sake_shaved_ice_20261031_171810.mp4",
+    "family_id": 37,
+    "family_name": "Optical Scale Pulses",
+    "mode": "dual_zoom_inverse",
+    "hero": "sake",
+    "item": "shaved_ice",
+    "title": "MindMath Reflex: Pause On The Exact Number! \ud83d\udd22",
+    "pinned_comment": "\ud83c\udfb2 CALCULATION SPEED TEST: Drop your screenshot below! Can you hit 100% precision on try #1? \ud83d\udc47 #MindMathTaps",
+    "facebook": {
+      "id": "1516691836969354",
+      "comment_id": null,
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1516691836969354"
+    }
   }
 ]
