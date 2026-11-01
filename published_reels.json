@@ -1620,5 +1620,25 @@
       "status": "success",
       "url": "https://facebook.com/2539219466599517"
     }
+  },
+  {
+    "timestamp": "2026-11-01T20:40:05.837531+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_vertical_vise_compass_japanese_post_office_20261101_204001.mp4",
+    "family_id": 30,
+    "family_name": "Cardinal 4-Way Crossfires",
+    "mode": "vertical_vise",
+    "hero": "compass",
+    "item": "japanese_post_office",
+    "title": "Probability & Speed: Hit The Winning Number! \ud83c\udfc6",
+    "pinned_comment": "\ud83d\udd22 MATH IQ CHALLENGE:\n1. Pause when the number locks into the outline! \u23f1\ufe0f\n2. Comment your attempt screenshot below \ud83d\udc47\n3. How many tries did it take you? \ud83e\udde0 #MindMath",
+    "facebook": {
+      "id": "1595827165918887",
+      "comment_id": "1595827165918887_2623108364867005",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1595827165918887"
+    }
   }
 ]
