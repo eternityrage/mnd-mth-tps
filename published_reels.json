@@ -1680,5 +1680,25 @@
       "status": "success",
       "url": "https://facebook.com/998905932618785"
     }
+  },
+  {
+    "timestamp": "2026-11-02T17:13:21.497662+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_conveyor_belt_rush_black_cat_person_facepalming_20261102_171316.mp4",
+    "family_id": 29,
+    "family_name": "Interlocking Gear Trains",
+    "mode": "conveyor_belt_rush",
+    "hero": "black_cat",
+    "item": "person_facepalming",
+    "title": "MindMath Reflex: Pause On The Exact Number! \ud83d\udd22",
+    "pinned_comment": "\ud83d\udca1 QUICK MATH: Pause the reel at the perfect alignment! Drop your screenshot to prove your math IQ! \ud83c\udfc6",
+    "facebook": {
+      "id": "1480094287385582",
+      "comment_id": null,
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1480094287385582"
+    }
   }
 ]
