@@ -1660,5 +1660,25 @@
       "status": "success",
       "url": "https://facebook.com/2037722076793491"
     }
+  },
+  {
+    "timestamp": "2026-11-02T09:45:02.357924+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_triangle_bounce_winking_face_national_park_20261102_094458.mp4",
+    "family_id": 6,
+    "family_name": "Geometric Triangle Bouncers",
+    "mode": "triangle_bounce",
+    "hero": "winking_face",
+    "item": "national_park",
+    "title": "Math IQ Speed Test: Stop At 100% Precision! \ud83d\udcd0",
+    "pinned_comment": "\ud83c\udfb2 CALCULATION SPEED TEST: Drop your screenshot below! Can you hit 100% precision on try #1? \ud83d\udc47 #MindMathTaps",
+    "facebook": {
+      "id": "998905932618785",
+      "comment_id": "998905932618785_2272832569955393",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/998905932618785"
+    }
   }
 ]
