@@ -1720,5 +1720,25 @@
       "status": "success",
       "url": "https://facebook.com/1598525851508533"
     }
+  },
+  {
+    "timestamp": "2026-11-02T23:38:53.891386+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_wobble_jelly_linked_paperclips_minus_20261102_233851.mp4",
+    "family_id": 8,
+    "family_name": "Double Pendulum Chaos",
+    "mode": "wobble_jelly",
+    "hero": "linked_paperclips",
+    "item": "minus",
+    "title": "Math IQ Speed Test: Stop At 100% Precision! \ud83d\udcd0",
+    "pinned_comment": "\ud83c\udfb2 CALCULATION SPEED TEST: Drop your screenshot below! Can you hit 100% precision on try #1? \ud83d\udc47 #MindMathTaps",
+    "facebook": {
+      "id": "40439031265687818",
+      "comment_id": "40439031265687818_2224566678100712",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/40439031265687818"
+    }
   }
 ]
