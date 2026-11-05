@@ -2000,5 +2000,25 @@
       "status": "success",
       "url": "https://facebook.com/1498726255447453"
     }
+  },
+  {
+    "timestamp": "2026-11-05T22:08:51.902442+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_subway_surfer_lanes_black_circle_spiral_shell_20261105_220848.mp4",
+    "family_id": 49,
+    "family_name": "Subway Surfer Dash Tracks",
+    "mode": "subway_surfer_lanes",
+    "hero": "black_circle",
+    "item": "spiral_shell",
+    "title": "Quick Mental Calculation: Can You Freeze In Time? \u26a1",
+    "pinned_comment": "\ud83d\udd22 MATH IQ CHALLENGE:\n1. Pause when the number locks into the outline! \u23f1\ufe0f\n2. Comment your attempt screenshot below \ud83d\udc47\n3. How many tries did it take you? \ud83e\udde0 #MindMath",
+    "facebook": {
+      "id": "1459085942836249",
+      "comment_id": "1459085942836249_1484022221453986",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1459085942836249"
+    }
   }
 ]
