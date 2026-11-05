@@ -1940,5 +1940,25 @@
       "status": "success",
       "url": "https://facebook.com/1849529479375387"
     }
+  },
+  {
+    "timestamp": "2026-11-05T01:33:00.930261+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_crossfire_4way_japanese_congratulations_button_spouting_whale_20261105_013255.mp4",
+    "family_id": 30,
+    "family_name": "Cardinal 4-Way Crossfires",
+    "mode": "crossfire_4way",
+    "hero": "japanese_congratulations_button",
+    "item": "spouting_whale",
+    "title": "Mental Math Rush: Align The Right Equation! \ud83d\udca1",
+    "pinned_comment": "\ud83d\udd22 MATH IQ CHALLENGE:\n1. Pause when the number locks into the outline! \u23f1\ufe0f\n2. Comment your attempt screenshot below \ud83d\udc47\n3. How many tries did it take you? \ud83e\udde0 #MindMath",
+    "facebook": {
+      "id": "1453011413690196",
+      "comment_id": "1453011413690196_1671578167825284",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1453011413690196"
+    }
   }
 ]
