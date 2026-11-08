@@ -2260,5 +2260,25 @@
       "status": "success",
       "url": "https://facebook.com/2848643512197156"
     }
+  },
+  {
+    "timestamp": "2026-11-08T14:22:42.315075+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_heartbeat_pulse_wave_shallow_pan_of_food_computer_mouse_20261108_142237.mp4",
+    "family_id": 11,
+    "family_name": "Heartbeat Pulse Monitors",
+    "mode": "heartbeat_pulse_wave",
+    "hero": "shallow_pan_of_food",
+    "item": "computer_mouse",
+    "title": "99% Can't Count Fast Enough! Tap Pause To Win \ud83c\udfb2",
+    "pinned_comment": "\ud83c\udfb2 CALCULATION SPEED TEST: Drop your screenshot below! Can you hit 100% precision on try #1? \ud83d\udc47 #MindMathTaps",
+    "facebook": {
+      "id": "2505835733240276",
+      "comment_id": "2505835733240276_1561441592455381",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/2505835733240276"
+    }
   }
 ]
