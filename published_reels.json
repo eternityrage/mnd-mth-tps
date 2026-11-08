@@ -2220,5 +2220,25 @@
       "status": "success",
       "url": "https://facebook.com/1600717811810358"
     }
+  },
+  {
+    "timestamp": "2026-11-08T00:49:11.498440+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_dna_double_helix_large_blue_diamond_monkey_face_20261108_004909.mp4",
+    "family_id": 23,
+    "family_name": "Infinity Lemniscates",
+    "mode": "dna_double_helix",
+    "hero": "large_blue_diamond",
+    "item": "monkey_face",
+    "title": "Quick Mental Calculation: Can You Freeze In Time? \u26a1",
+    "pinned_comment": "\ud83c\udfb2 CALCULATION SPEED TEST: Drop your screenshot below! Can you hit 100% precision on try #1? \ud83d\udc47 #MindMathTaps",
+    "facebook": {
+      "id": "1928866228522279",
+      "comment_id": "1928866228522279_3525881404248178",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1928866228522279"
+    }
   }
 ]
