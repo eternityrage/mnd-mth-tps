@@ -2300,5 +2300,25 @@
       "status": "success",
       "url": "https://facebook.com/1105345455608054"
     }
+  },
+  {
+    "timestamp": "2026-11-08T20:39:18.708541+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_orbit_counter_rotating_kite_ophiuchus_20261108_203913.mp4",
+    "family_id": 21,
+    "family_name": "Counter-Rotating Gyros",
+    "mode": "orbit_counter_rotating",
+    "hero": "kite",
+    "item": "ophiuchus",
+    "title": "MindMath Reflex: Pause On The Exact Number! \ud83d\udd22",
+    "pinned_comment": "\ud83d\udca1 QUICK MATH: Pause the reel at the perfect alignment! Drop your screenshot to prove your math IQ! \ud83c\udfc6",
+    "facebook": {
+      "id": "1770717680648693",
+      "comment_id": "1770717680648693_1469060735320603",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1770717680648693"
+    }
   }
 ]
