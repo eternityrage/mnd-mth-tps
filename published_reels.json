@@ -2460,5 +2460,25 @@
       "status": "success",
       "url": "https://facebook.com/1657828765759025"
     }
+  },
+  {
+    "timestamp": "2026-11-10T15:39:41.013280+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_crossfire_4way_magnet_brick_20261110_153935.mp4",
+    "family_id": 30,
+    "family_name": "Cardinal 4-Way Crossfires",
+    "mode": "crossfire_4way",
+    "hero": "magnet",
+    "item": "brick",
+    "title": "Probability & Speed: Hit The Winning Number! \ud83c\udfc6",
+    "pinned_comment": "\ud83c\udfb2 CALCULATION SPEED TEST: Drop your screenshot below! Can you hit 100% precision on try #1? \ud83d\udc47 #MindMathTaps",
+    "facebook": {
+      "id": "1450793480580413",
+      "comment_id": "1450793480580413_2114381762573328",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1450793480580413"
+    }
   }
 ]
