@@ -2440,5 +2440,25 @@
       "status": "success",
       "url": "https://facebook.com/992417503921061"
     }
+  },
+  {
+    "timestamp": "2026-11-10T10:10:13.353857+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_orbit_elliptical_clamp_fountain_20261110_101010.mp4",
+    "family_id": 20,
+    "family_name": "Planetary Orbit Carousels",
+    "mode": "orbit_elliptical",
+    "hero": "clamp",
+    "item": "fountain",
+    "title": "Probability & Speed: Hit The Winning Number! \ud83c\udfc6",
+    "pinned_comment": "\ud83d\udca1 QUICK MATH: Pause the reel at the perfect alignment! Drop your screenshot to prove your math IQ! \ud83c\udfc6",
+    "facebook": {
+      "id": "1657828765759025",
+      "comment_id": "1657828765759025_2179116156290356",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1657828765759025"
+    }
   }
 ]
