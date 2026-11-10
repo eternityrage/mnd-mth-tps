@@ -2420,5 +2420,25 @@
       "status": "success",
       "url": "https://facebook.com/40118015371145133"
     }
+  },
+  {
+    "timestamp": "2026-11-10T03:47:59.054686+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_triangle_bounce_oncoming_fist_ringed_planet_20261110_034755.mp4",
+    "family_id": 6,
+    "family_name": "Geometric Triangle Bouncers",
+    "mode": "triangle_bounce",
+    "hero": "oncoming_fist",
+    "item": "ringed_planet",
+    "title": "Quick Mental Calculation: Can You Freeze In Time? \u26a1",
+    "pinned_comment": "\ud83c\udfb2 CALCULATION SPEED TEST: Drop your screenshot below! Can you hit 100% precision on try #1? \ud83d\udc47 #MindMathTaps",
+    "facebook": {
+      "id": "992417503921061",
+      "comment_id": "992417503921061_1123391560477906",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/992417503921061"
+    }
   }
 ]
