@@ -2400,5 +2400,25 @@
       "status": "success",
       "url": "https://facebook.com/4762177417349860"
     }
+  },
+  {
+    "timestamp": "2026-11-10T00:21:01.146066+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_dual_zoom_inverse_yellow_square_maracas_20261110_002054.mp4",
+    "family_id": 37,
+    "family_name": "Optical Scale Pulses",
+    "mode": "dual_zoom_inverse",
+    "hero": "yellow_square",
+    "item": "maracas",
+    "title": "99% Can't Count Fast Enough! Tap Pause To Win \ud83c\udfb2",
+    "pinned_comment": "\ud83d\udd22 MATH IQ CHALLENGE:\n1. Pause when the number locks into the outline! \u23f1\ufe0f\n2. Comment your attempt screenshot below \ud83d\udc47\n3. How many tries did it take you? \ud83e\udde0 #MindMath",
+    "facebook": {
+      "id": "40118015371145133",
+      "comment_id": "40118015371145133_1814617916312595",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/40118015371145133"
+    }
   }
 ]
