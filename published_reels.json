@@ -2560,5 +2560,25 @@
       "status": "success",
       "url": "https://facebook.com/1678033080393953"
     }
+  },
+  {
+    "timestamp": "2026-11-11T19:45:26.429395+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_focus_aperture_shutter_thermometer_small_orange_diamond_20261111_194522.mp4",
+    "family_id": 36,
+    "family_name": "Arrowhead Ballistics",
+    "mode": "focus_aperture_shutter",
+    "hero": "thermometer",
+    "item": "small_orange_diamond",
+    "title": "Mental Math Rush: Align The Right Equation! \ud83d\udca1",
+    "pinned_comment": "\ud83d\udca1 QUICK MATH: Pause the reel at the perfect alignment! Drop your screenshot to prove your math IQ! \ud83c\udfc6",
+    "facebook": {
+      "id": "1012775097771195",
+      "comment_id": "1012775097771195_1961948145187216",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1012775097771195"
+    }
   }
 ]
