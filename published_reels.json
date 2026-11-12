@@ -2680,5 +2680,25 @@
       "status": "success",
       "url": "https://facebook.com/4498011647088445"
     }
+  },
+  {
+    "timestamp": "2026-11-12T22:21:57.707278+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_stopwatch_countdown_red_circle_ledger_20261112_222153.mp4",
+    "family_id": 50,
+    "family_name": "Precision Chrono Metronomes",
+    "mode": "stopwatch_countdown",
+    "hero": "red_circle",
+    "item": "ledger",
+    "title": "Mental Math Rush: Align The Right Equation! \ud83d\udca1",
+    "pinned_comment": "\ud83d\udca1 QUICK MATH: Pause the reel at the perfect alignment! Drop your screenshot to prove your math IQ! \ud83c\udfc6",
+    "facebook": {
+      "id": "1489044446434666",
+      "comment_id": "1489044446434666_1661258402120619",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1489044446434666"
+    }
   }
 ]
