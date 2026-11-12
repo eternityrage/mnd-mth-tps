@@ -2640,5 +2640,25 @@
       "status": "success",
       "url": "https://facebook.com/2427210614483455"
     }
+  },
+  {
+    "timestamp": "2026-11-12T16:02:23.617791+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_pyramid_wave_japanese_passing_grade_button_movie_camera_20261112_160220.mp4",
+    "family_id": 6,
+    "family_name": "Geometric Triangle Bouncers",
+    "mode": "pyramid_wave",
+    "hero": "japanese_passing_grade_button",
+    "item": "movie_camera",
+    "title": "Mental Math Rush: Align The Right Equation! \ud83d\udca1",
+    "pinned_comment": "\ud83d\udca1 QUICK MATH: Pause the reel at the perfect alignment! Drop your screenshot to prove your math IQ! \ud83c\udfc6",
+    "facebook": {
+      "id": "1141139291702326",
+      "comment_id": "1141139291702326_1838427700771679",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1141139291702326"
+    }
   }
 ]
