@@ -2720,5 +2720,25 @@
       "status": "success",
       "url": "https://facebook.com/1902074354288904"
     }
+  },
+  {
+    "timestamp": "2026-11-13T09:48:28.230242+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_gear_train_mesh_magic_wand_kissing_cat_20261113_094823.mp4",
+    "family_id": 29,
+    "family_name": "Interlocking Gear Trains",
+    "mode": "gear_train_mesh",
+    "hero": "magic_wand",
+    "item": "kissing_cat",
+    "title": "MindMath Reflex: Pause On The Exact Number! \ud83d\udd22",
+    "pinned_comment": "\ud83d\udd22 MATH IQ CHALLENGE:\n1. Pause when the number locks into the outline! \u23f1\ufe0f\n2. Comment your attempt screenshot below \ud83d\udc47\n3. How many tries did it take you? \ud83e\udde0 #MindMath",
+    "facebook": {
+      "id": "1096702646570280",
+      "comment_id": "1096702646570280_1896043114887548",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1096702646570280"
+    }
   }
 ]
