@@ -2820,5 +2820,25 @@
       "status": "success",
       "url": "https://facebook.com/1508245984543742"
     }
+  },
+  {
+    "timestamp": "2026-11-14T09:11:53.880258+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_sliding_puzzle_15_hook_mouse_face_20261114_091151.mp4",
+    "family_id": 45,
+    "family_name": "High-Density 3x3 Matrices",
+    "mode": "sliding_puzzle_15",
+    "hero": "hook",
+    "item": "mouse_face",
+    "title": "MindMath Reflex: Pause On The Exact Number! \ud83d\udd22",
+    "pinned_comment": "\ud83d\udd22 MATH IQ CHALLENGE:\n1. Pause when the number locks into the outline! \u23f1\ufe0f\n2. Comment your attempt screenshot below \ud83d\udc47\n3. How many tries did it take you? \ud83e\udde0 #MindMath",
+    "facebook": {
+      "id": "4773849109606906",
+      "comment_id": "4773849109606906_2335339650565547",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/4773849109606906"
+    }
   }
 ]
