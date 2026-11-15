@@ -2980,5 +2980,25 @@
       "status": "success",
       "url": "https://facebook.com/1887826052395663"
     }
+  },
+  {
+    "timestamp": "2026-11-15T21:08:13.862679+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_prism_spectrum_split_slot_machine_sloth_20261115_210808.mp4",
+    "family_id": 42,
+    "family_name": "Optical Spectrum Prisms",
+    "mode": "prism_spectrum_split",
+    "hero": "slot_machine",
+    "item": "sloth",
+    "title": "Math IQ Speed Test: Stop At 100% Precision! \ud83d\udcd0",
+    "pinned_comment": "\ud83c\udfb2 CALCULATION SPEED TEST: Drop your screenshot below! Can you hit 100% precision on try #1? \ud83d\udc47 #MindMathTaps",
+    "facebook": {
+      "id": "1900472684698561",
+      "comment_id": "1900472684698561_1701301198373592",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1900472684698561"
+    }
   }
 ]
