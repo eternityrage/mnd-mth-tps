@@ -3040,5 +3040,25 @@
       "status": "success",
       "url": "https://facebook.com/1669770647962395"
     }
+  },
+  {
+    "timestamp": "2026-11-16T17:09:39.298283+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_vertical_vise_satellite_antenna_man_kneeling_facing_right_20261116_170933.mp4",
+    "family_id": 30,
+    "family_name": "Cardinal 4-Way Crossfires",
+    "mode": "vertical_vise",
+    "hero": "satellite_antenna",
+    "item": "man_kneeling_facing_right",
+    "title": "Mental Math Rush: Align The Right Equation! \ud83d\udca1",
+    "pinned_comment": "\ud83c\udfb2 CALCULATION SPEED TEST: Drop your screenshot below! Can you hit 100% precision on try #1? \ud83d\udc47 #MindMathTaps",
+    "facebook": {
+      "id": "1118659437737394",
+      "comment_id": "1118659437737394_2529918377532589",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1118659437737394"
+    }
   }
 ]
