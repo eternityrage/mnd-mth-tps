@@ -3060,5 +3060,25 @@
       "status": "success",
       "url": "https://facebook.com/1118659437737394"
     }
+  },
+  {
+    "timestamp": "2026-11-16T22:24:28.340421+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_crossfire_4way_face_with_monocle_chart_increasing_20261116_222424.mp4",
+    "family_id": 30,
+    "family_name": "Cardinal 4-Way Crossfires",
+    "mode": "crossfire_4way",
+    "hero": "face_with_monocle",
+    "item": "chart_increasing",
+    "title": "Probability & Speed: Hit The Winning Number! \ud83c\udfc6",
+    "pinned_comment": "\ud83d\udca1 QUICK MATH: Pause the reel at the perfect alignment! Drop your screenshot to prove your math IQ! \ud83c\udfc6",
+    "facebook": {
+      "id": "1451245466497679",
+      "comment_id": "1451245466497679_1109391715208044",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1451245466497679"
+    }
   }
 ]
