@@ -3160,5 +3160,23 @@
       "status": "success",
       "url": "https://facebook.com/1105801655621899"
     }
+  },
+  {
+    "timestamp": "2026-11-17T21:09:21.717366+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_strobe_flash_freeze_chains_folding_hand_fan_20261117_210915.mp4",
+    "family_id": 48,
+    "family_name": "High-Frequency Strobe Freezes",
+    "mode": "strobe_flash_freeze",
+    "hero": "chains",
+    "item": "folding_hand_fan",
+    "title": "Quick Mental Calculation: Can You Freeze In Time? \u26a1",
+    "pinned_comment": "\ud83c\udfb2 CALCULATION SPEED TEST: Drop your screenshot below! Can you hit 100% precision on try #1? \ud83d\udc47 #MindMathTaps",
+    "facebook": {
+      "status": "failed",
+      "error": "Finish Phase Failed: No response",
+      "platform": "facebook"
+    }
   }
 ]
