@@ -3100,5 +3100,25 @@
       "status": "success",
       "url": "https://facebook.com/1132346802722574"
     }
+  },
+  {
+    "timestamp": "2026-11-17T04:02:29.150080+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_triangle_bounce_screwdriver_man_bouncing_ball_20261117_040225.mp4",
+    "family_id": 6,
+    "family_name": "Geometric Triangle Bouncers",
+    "mode": "triangle_bounce",
+    "hero": "screwdriver",
+    "item": "man_bouncing_ball",
+    "title": "Mental Math Rush: Align The Right Equation! \ud83d\udca1",
+    "pinned_comment": "\ud83d\udca1 QUICK MATH: Pause the reel at the perfect alignment! Drop your screenshot to prove your math IQ! \ud83c\udfc6",
+    "facebook": {
+      "id": "1707516117375152",
+      "comment_id": "1707516117375152_1126731440154439",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1707516117375152"
+    }
   }
 ]
