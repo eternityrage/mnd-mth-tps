@@ -3120,5 +3120,25 @@
       "status": "success",
       "url": "https://facebook.com/1707516117375152"
     }
+  },
+  {
+    "timestamp": "2026-11-17T10:55:58.470162+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_inverted_pyramid_x_ray_hammer_and_pick_20261117_105554.mp4",
+    "family_id": 43,
+    "family_name": "Fisheye Barrel Distortions",
+    "mode": "inverted_pyramid",
+    "hero": "x_ray",
+    "item": "hammer_and_pick",
+    "title": "Quick Mental Calculation: Can You Freeze In Time? \u26a1",
+    "pinned_comment": "\ud83d\udd22 MATH IQ CHALLENGE:\n1. Pause when the number locks into the outline! \u23f1\ufe0f\n2. Comment your attempt screenshot below \ud83d\udc47\n3. How many tries did it take you? \ud83e\udde0 #MindMath",
+    "facebook": {
+      "id": "1134892276123950",
+      "comment_id": "1134892276123950_1385703793441433",
+      "platform": "facebook",
+      "status": "success",
+      "url": "https://facebook.com/1134892276123950"
+    }
   }
 ]
