@@ -3268,5 +3268,23 @@
       "error": "Finish Phase Failed: No response",
       "platform": "facebook"
     }
+  },
+  {
+    "timestamp": "2026-11-18T22:59:35.552460+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_swing_horizontal_clown_face_dragon_face_20261118_225932.mp4",
+    "family_id": 3,
+    "family_name": "Horizontal Slider Lanes",
+    "mode": "swing_horizontal",
+    "hero": "clown_face",
+    "item": "dragon_face",
+    "title": "Probability & Speed: Hit The Winning Number! \ud83c\udfc6",
+    "pinned_comment": "\ud83d\udca1 QUICK MATH: Pause the reel at the perfect alignment! Drop your screenshot to prove your math IQ! \ud83c\udfc6",
+    "facebook": {
+      "status": "failed",
+      "error": "Finish Phase Failed: No response",
+      "platform": "facebook"
+    }
   }
 ]
