@@ -3214,5 +3214,23 @@
       "error": "Finish Phase Failed: No response",
       "platform": "facebook"
     }
+  },
+  {
+    "timestamp": "2026-11-18T10:26:50.968543+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_rubiks_slice_turn_large_orange_diamond_old_woman_20261118_102646.mp4",
+    "family_id": 46,
+    "family_name": "Geometric Block Drops",
+    "mode": "rubiks_slice_turn",
+    "hero": "large_orange_diamond",
+    "item": "old_woman",
+    "title": "Quick Mental Calculation: Can You Freeze In Time? \u26a1",
+    "pinned_comment": "\ud83d\udca1 QUICK MATH: Pause the reel at the perfect alignment! Drop your screenshot to prove your math IQ! \ud83c\udfc6",
+    "facebook": {
+      "status": "failed",
+      "error": "Finish Phase Failed: No response",
+      "platform": "facebook"
+    }
   }
 ]
