@@ -3340,5 +3340,23 @@
       "error": "Finish Phase Failed: No response",
       "platform": "facebook"
     }
+  },
+  {
+    "timestamp": "2026-11-19T20:50:39.022507+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_roulette_wheel_spin_brown_square_crying_face_20261119_205033.mp4",
+    "family_id": 25,
+    "family_name": "Casino Roulette Wheels",
+    "mode": "roulette_wheel_spin",
+    "hero": "brown_square",
+    "item": "crying_face",
+    "title": "MindMath Reflex: Pause On The Exact Number! \ud83d\udd22",
+    "pinned_comment": "\ud83c\udfb2 CALCULATION SPEED TEST: Drop your screenshot below! Can you hit 100% precision on try #1? \ud83d\udc47 #MindMathTaps",
+    "facebook": {
+      "status": "failed",
+      "error": "Finish Phase Failed: No response",
+      "platform": "facebook"
+    }
   }
 ]
