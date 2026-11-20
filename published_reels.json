@@ -3430,5 +3430,23 @@
       "error": "Finish Phase Failed: No response",
       "platform": "facebook"
     }
+  },
+  {
+    "timestamp": "2026-11-20T20:35:15.677805+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_crossfire_diagonal_x_orange_square_new_moon_20261120_203510.mp4",
+    "family_id": 31,
+    "family_name": "Diagonal-X Interceptors",
+    "mode": "crossfire_diagonal_x",
+    "hero": "orange_square",
+    "item": "new_moon",
+    "title": "Quick Mental Calculation: Can You Freeze In Time? \u26a1",
+    "pinned_comment": "\ud83d\udca1 QUICK MATH: Pause the reel at the perfect alignment! Drop your screenshot to prove your math IQ! \ud83c\udfc6",
+    "facebook": {
+      "status": "failed",
+      "error": "Finish Phase Failed: No response",
+      "platform": "facebook"
+    }
   }
 ]
