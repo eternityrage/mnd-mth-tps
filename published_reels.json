@@ -3484,5 +3484,23 @@
       "error": "Finish Phase Failed: No response",
       "platform": "facebook"
     }
+  },
+  {
+    "timestamp": "2026-11-21T10:00:23.591438+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_box_implosion_left_speech_bubble_grinning_face_with_smiling_eyes_20261121_100020.mp4",
+    "family_id": 32,
+    "family_name": "Hexagonal 6-Way Crossfires",
+    "mode": "box_implosion",
+    "hero": "left_speech_bubble",
+    "item": "grinning_face_with_smiling_eyes",
+    "title": "MindMath Reflex: Pause On The Exact Number! \ud83d\udd22",
+    "pinned_comment": "\ud83c\udfb2 CALCULATION SPEED TEST: Drop your screenshot below! Can you hit 100% precision on try #1? \ud83d\udc47 #MindMathTaps",
+    "facebook": {
+      "status": "failed",
+      "error": "Finish Phase Failed: No response",
+      "platform": "facebook"
+    }
   }
 ]
