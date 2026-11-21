@@ -3502,5 +3502,23 @@
       "error": "Finish Phase Failed: No response",
       "platform": "facebook"
     }
+  },
+  {
+    "timestamp": "2026-11-21T15:27:09.830656+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_sliding_puzzle_15_man_in_motorized_wheelchair_facing_right_blue_circle_20261121_152706.mp4",
+    "family_id": 45,
+    "family_name": "High-Density 3x3 Matrices",
+    "mode": "sliding_puzzle_15",
+    "hero": "man_in_motorized_wheelchair_facing_right",
+    "item": "blue_circle",
+    "title": "Probability & Speed: Hit The Winning Number! \ud83c\udfc6",
+    "pinned_comment": "\ud83d\udca1 QUICK MATH: Pause the reel at the perfect alignment! Drop your screenshot to prove your math IQ! \ud83c\udfc6",
+    "facebook": {
+      "status": "failed",
+      "error": "Finish Phase Failed: No response",
+      "platform": "facebook"
+    }
   }
 ]
