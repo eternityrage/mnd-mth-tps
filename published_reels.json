@@ -3592,5 +3592,23 @@
       "error": "Finish Phase Failed: No response",
       "platform": "facebook"
     }
+  },
+  {
+    "timestamp": "2026-11-22T15:28:05.826260+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_inverted_pyramid_control_knobs_prohibited_20261122_152802.mp4",
+    "family_id": 43,
+    "family_name": "Fisheye Barrel Distortions",
+    "mode": "inverted_pyramid",
+    "hero": "control_knobs",
+    "item": "prohibited",
+    "title": "Mental Math Rush: Align The Right Equation! \ud83d\udca1",
+    "pinned_comment": "\ud83d\udd22 MATH IQ CHALLENGE:\n1. Pause when the number locks into the outline! \u23f1\ufe0f\n2. Comment your attempt screenshot below \ud83d\udc47\n3. How many tries did it take you? \ud83e\udde0 #MindMath",
+    "facebook": {
+      "status": "failed",
+      "error": "Finish Phase Failed: No response",
+      "platform": "facebook"
+    }
   }
 ]
