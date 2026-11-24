@@ -3790,5 +3790,23 @@
       "error": "Finish Phase Failed: No response",
       "platform": "facebook"
     }
+  },
+  {
+    "timestamp": "2026-11-24T22:39:09.668501+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_scissor_pinch_popcorn_sunrise_over_mountains_20261124_223905.mp4",
+    "family_id": 31,
+    "family_name": "Diagonal-X Interceptors",
+    "mode": "scissor_pinch",
+    "hero": "popcorn",
+    "item": "sunrise_over_mountains",
+    "title": "Mental Math Rush: Align The Right Equation! \ud83d\udca1",
+    "pinned_comment": "\ud83d\udd22 MATH IQ CHALLENGE:\n1. Pause when the number locks into the outline! \u23f1\ufe0f\n2. Comment your attempt screenshot below \ud83d\udc47\n3. How many tries did it take you? \ud83e\udde0 #MindMath",
+    "facebook": {
+      "status": "failed",
+      "error": "Finish Phase Failed: No response",
+      "platform": "facebook"
+    }
   }
 ]
