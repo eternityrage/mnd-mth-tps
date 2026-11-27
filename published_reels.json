@@ -4042,5 +4042,23 @@
       "error": "Start Phase Failed: No response",
       "platform": "facebook"
     }
+  },
+  {
+    "timestamp": "2026-11-27T17:31:07.262405+00:00Z",
+    "page_id": "1309712825557751",
+    "page_name": "MindMath Taps",
+    "video_file": "reel_mindmath_dimension_shift_4d_cherry_blossom_office_building_20261127_173101.mp4",
+    "family_id": 39,
+    "family_name": "Depth 3D Wormholes",
+    "mode": "dimension_shift_4d",
+    "hero": "cherry_blossom",
+    "item": "office_building",
+    "title": "Quick Mental Calculation: Can You Freeze In Time? \u26a1",
+    "pinned_comment": "\ud83c\udfb2 CALCULATION SPEED TEST: Drop your screenshot below! Can you hit 100% precision on try #1? \ud83d\udc47 #MindMathTaps",
+    "facebook": {
+      "status": "failed",
+      "error": "Start Phase Failed: No response",
+      "platform": "facebook"
+    }
   }
 ]
